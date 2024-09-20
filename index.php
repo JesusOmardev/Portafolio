@@ -167,7 +167,7 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">95%</i></span>
+              <span class="skill">HTML </span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -185,7 +185,7 @@
 
             <div class="progress">
               <span class="skill">JavaScript (J<span style="text-transform: lowercase;">query, Ajax, Json)</span>
-                <i class="val">80%</i></span>
+                </span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -194,7 +194,7 @@
 
             <div class="progress">
               <span class="skill">GIT (G<span style="text-transform: lowercase;">it</span>H<span
-                  style="text-transform: lowercase;">ub)</span> <i class="val">70%</i></span>
+                  style="text-transform: lowercase;">ub)</span> </span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -216,7 +216,7 @@
 
             <div class="progress">
               <span class="skill">Python (D<span style="text-transform: lowercase;">jango,
-                  rest_framework</span>)<i class="val">60%</i></span>
+                  rest_framework</span>)</span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -225,7 +225,7 @@
 
             <div class="progress">
               <span class="skill">UML (S<span style="text-transform: lowercase;">equence diagram,flow
-                  diagram, etc)</span><i class="val">75%</i></span>
+                  diagram, etc)</span></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -233,7 +233,7 @@
             </div>
 
             <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+              <span class="skill">WordPress/CMS </span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -247,7 +247,7 @@
             <div class="progress">
               <span class="skill">Linux (R<span style="text-transform: lowercase;">ocky</span> L<span
                   style="text-transform: lowercase;">inux,</span>Centos 7 & 8)
-                <i class="val">70%</i></span>
+                </span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
                 </div>
@@ -271,6 +271,21 @@
         <div class="row">
           <div class="col-lg-6">
             <h3 class="resume-title">Educación</h3>
+            <div class="resume-item">
+              <h4>Master "Formación Permanente Dual en Innovación y Tecnología"</h4>
+              <h5>2024 - 2025</h5>
+              <p><em>
+                  Master realizado en la Univarseidad de  
+                   <a href="https://www.deusto.es/es/inicio/estudia/estudios/master-propio/dual-innovacion-tecnologia" target="_blank">Deusto</a>a través de la RIEG</em></p>
+            </div>
+            <div class="resume-item">
+              <h4>Ingeniería en desarrollo de Software</h4>
+              <h5>inicio 2023</h5>
+              <p><em>
+                  Ingenieria en desarrollo de software en la 
+                   <a href="https://www.unadmexico.mx/" target="_blank">
+                  Universidad a distancia de Mexio UNDAM</a></em></p>
+            </div>
             <div class="resume-item">
               <h4>Técnico superior universitario</h4>
               <h5>2020 - 2022</h5>
@@ -306,8 +321,21 @@
           <div class="col-lg-6">
             <h3 class="resume-title">Experiencia</h3>
             <div class="resume-item">
+              <h4>Programador analista</h4>
+              <h5>Abril del 2024 - septiembre del 2024</h5>
+              <p><em>Programador analista en la empresa Agencia aduanera de america</em></p>
+              <ul>
+                <li>Actividades realizas:</li>
+                <ul>
+                  <li>Creación de api con laravel.</li>
+                  <li>Actualizacion de modulos en su software existente.</li>
+                  <li>Implementación de cuestionario de requerimientos para el area de desarrollo</li>
+                </ul>
+              </ul>
+            </div>
+            <div class="resume-item">
               <h4>Ingeniero de Software</h4>
-              <h5>2022 - 2024</h5>
+              <h5>Mayo 2022 - abril del 2024</h5>
               <!-- <p><em>Stepping Stone Advertising, New York, NY</em></p> -->
               <ul>
                 <li>Proyectos realizados:</li>
